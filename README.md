@@ -255,8 +255,8 @@ Install the required packages manually in Colab if needed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/sum1tbarua/iomt-xai-shift-ids.git 
+cd iomt-xai-shift-ids
 ```
 
 2. Download the required datasets from their official sources.
@@ -271,7 +271,7 @@ cd YOUR_REPOSITORY_NAME
 
 Each notebook corresponds to a specific experiment and can also be reviewed independently.
 
----
+<!-- ---
 
 ## Manuscript Status
 
@@ -279,7 +279,7 @@ This repository supports the experimental workflow for the manuscript:
 
 **Behavior-Aware Explainable AI for IoMT Intrusion Detection Under Cross-Attack-Family and Cross-Dataset Shift**
 
-Manuscript status: submitted.
+Manuscript status: submitted. -->
 
 ---
 
