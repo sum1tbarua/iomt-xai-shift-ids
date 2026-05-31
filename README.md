@@ -293,7 +293,7 @@ If you use this repository, please cite the original datasets and this project r
   title        = {Behavior-Aware Explainable AI for IoMT Intrusion Detection Under Cross-Attack-Family and Cross-Dataset Shift},
   year         = {2026},
   howpublished = {GitHub repository},
-  note         = {Available at: https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME}
+  note         = {Available at: https://github.com/sum1tbarua/iomt-xai-shift-ids.git}
 }
 ```
 
